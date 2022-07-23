@@ -143,6 +143,10 @@ button {
     border: #3882F6 4px solid;
 }
 
+.images p {
+    text-align: center;
+}
+
 /*SECTION 3*/
 
 .section-3 {
