@@ -112,5 +112,13 @@ button {
 }
 
 .images {
-    border: 2px solid red;
+    /*border: 2px solid red;*/
+    width: 10em;
+}
+
+.images img {
+    width: 10em;
+    height: 14em;
+    object-fit: cover;
+    border: #3882F6 4px solid;
 }
