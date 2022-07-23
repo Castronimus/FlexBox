@@ -102,6 +102,10 @@ button {
 
 .header-2 {
     text-align: center;
+    font-size: 36px;
+    font-family: #1F2937;
+    font-weight: 800; /*bolder*/
+    
 }
 
 .image-text {
