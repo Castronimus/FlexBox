@@ -177,3 +177,18 @@ button {
     font-size:large;
 
 }
+
+/*FOOTER*/
+
+.footer {
+    border: 2px solid orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 2em;
+}
+
+.footer p {
+    color: white;
+}
